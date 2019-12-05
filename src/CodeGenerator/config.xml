@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<connections>
+  <datasource>47.106.97.33</datasource>
+  <initialcatalog>silu_dev</initialcatalog>
+  <uid>silu_test</uid>
+  <pwd>123456</pwd>
+  <category>Psi</category>
+  <company>Zdt</company>
+  <generatePath>D:\CodeGenerate</generatePath>
+</connections>
